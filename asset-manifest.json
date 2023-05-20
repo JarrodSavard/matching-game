@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/matching-game/static/css/main.0d474b16.css",
-    "main.js": "/matching-game/static/js/main.ec592d9b.js",
+    "main.js": "/matching-game/static/js/main.cc89b56d.js",
     "index.html": "/matching-game/index.html",
     "main.0d474b16.css.map": "/matching-game/static/css/main.0d474b16.css.map",
-    "main.ec592d9b.js.map": "/matching-game/static/js/main.ec592d9b.js.map"
+    "main.cc89b56d.js.map": "/matching-game/static/js/main.cc89b56d.js.map"
   },
   "entrypoints": [
     "static/css/main.0d474b16.css",
-    "static/js/main.ec592d9b.js"
+    "static/js/main.cc89b56d.js"
   ]
 }
