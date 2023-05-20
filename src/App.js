@@ -3,12 +3,12 @@ import { Card } from './components/Card/Card';
 import './App.css';
 
 const cardImages = [
-	{ src: './img/bunny-neon-1.jpg', matched: false },
-	{ src: './img/cartoon-city-1.jpg', matched: false },
-	{ src: './img/computer-1.jpg', matched: false },
-	{ src: './img/floating-1.jpg', matched: false },
-	{ src: './img/mage-1.jpg', matched: false },
-	{ src: './img/spaceships-1.jpg', matched: false },
+	{ src: process.env.PUBLIC_URL + '/img/bunny-neon-1.jpg', matched: false },
+	{ src: process.env.PUBLIC_URL + '/img/cartoon-city-1.jpg', matched: false },
+	{ src: process.env.PUBLIC_URL + '/img/computer-1.jpg', matched: false },
+	{ src: process.env.PUBLIC_URL + '/img/floating-1.jpg', matched: false },
+	{ src: process.env.PUBLIC_URL + '/img/mage-1.jpg', matched: false },
+	{ src: process.env.PUBLIC_URL + '/img/spaceships-1.jpg', matched: false },
 ];
 
 function App() {
