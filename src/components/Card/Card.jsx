@@ -12,7 +12,7 @@ export const Card = ({ card, handleChoice, flipped, disabled }) => {
 		<div className={styles.card}>
 			<div className={flipped ? styles.flipped : ''}>
 				<img className={styles.front} src={card.src} alt="card front" />
-				<img onClick={handleClick} className={styles.back} src="/img/cover.jpg" alt="card back" />
+				<img onClick={handleClick} className={styles.back} src={process.env.PUBLIC_URL + '/img/cover.jpg'} alt="card back" />
 			</div>
 		</div>
 	);
