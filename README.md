@@ -33,6 +33,6 @@ This Card Matching Game was developed using the following technologies:
 
 ## Try It Out
 
-You can play the Card Matching Game by accessing the following link: [Card Matching Game](https://example.com)
+You can play the Card Matching Game by accessing the following link: [Card Matching Game](https://jarrodsavard.github.io/matching-game/)
 
 Enjoy the game and have fun! If you have any feedback or suggestions, feel free to reach out to us.
